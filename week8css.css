@@ -1,0 +1,112 @@
+body{
+    background-image: linear-gradient(to left, #AB88CE, #8D66B4, #735393, #5C4770, #483B55, #38303F, #2A262E, #1E1C21, #151416, #0E0E0F, #090909, #050505, #030303, #010101, #000000, #000000, #000000);
+    
+}
+
+a{
+    color:white;
+    text-align: center;
+   font-size: 15px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+}
+
+
+a:hover{
+    color:rgba(171, 136, 206, 1)
+}
+
+
+.menu-buttons{
+float: right;
+font-size: 16px;
+color:white;
+}
+
+h1 {
+    font-size: 65px;
+    color: white;
+    text-align: center;
+   
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 43px;
+    font-weight: 400;
+    line-height: 116px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+
+.intro-line{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 26px;
+font-weight: 300;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: center;
+color:white;
+margin-left: auto;
+margin-right: auto;
+}
+
+.container{
+    height: 575px;
+    width: 1085px;
+    left: 167px;
+    top: 795px;
+    border-radius: 0px;
+    
+}
+
+
+p{
+width: 550px;  
+border:1px solid white;
+color: white;
+font-size: 27px;
+font-family:'Times New Roman', Times, serif;
+text-align: center;
+margin-right: auto;
+
+}
+
+
+img{
+    width:25%;
+    height:25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+th,td{
+    width: 50px;
+    border:1px solid white;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+tr:nth-child(odd){
+    background-color: darkgray;
+}
+
+tr:hover{
+    background-color: gray;
+}
+
+.prices {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.contact{
+    margin-left: auto;
+    margin-right: auto
+}
