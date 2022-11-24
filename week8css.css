@@ -20,7 +20,7 @@ a:hover{
 
 .menu-buttons{
 float: right;
-font-size: 16px;
+font-size: 15px;
 color:white;
 }
 
@@ -43,7 +43,7 @@ h2{
 }
 
 .intro-line{
-font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family:'Times New Roman', Times, serif;
 font-size: 26px;
 font-weight: 300;
 line-height: 31px;
